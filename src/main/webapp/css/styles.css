@@ -1,0 +1,20 @@
+button.btn{
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 45px;
+}
+
+button.restart{
+    background-color: crimson;
+}
+
+button.start{
+    background-color: chartreuse;
+    width: 250px;
+    height: 45px;
+}
+
+img.images{
+    width: 600px;
+    height: 700px;
+}
